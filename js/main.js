@@ -84,18 +84,16 @@ var css2 = `
 
 var md = `
 # 自我介绍
-我叫 Helloyong
-NFU 学校毕业
-自学前端半年
-希望应聘前端开发岗位
+我叫 Helloyong, NFU 学校毕业. 自学前端半年. 希望应聘前端开发岗位
 
 # 技能介绍
-熟悉 JavaScript CSS
+熟悉 HTML5/CSS/JavaScript
+会使用jQuery/AJAX
 
 # 项目介绍
-1. 轮播
-2. 简历
-3. 画板
+1. [轮播](https://helloyongwei.github.io/AppleStyleSlidesCopy/)
+2. [简历](https://helloyongwei.github.io/resume/)
+3. [画板](https://helloyongwei.github.io/canvas-demo/)
 
 # 联系方式
 - QQ 2628578405
@@ -104,8 +102,7 @@ NFU 学校毕业
 
 let css3 = `
 /*
- * 这就是我的会动的简历
- * 谢谢观看
+ * 谢谢观看!
  */
 `
 
